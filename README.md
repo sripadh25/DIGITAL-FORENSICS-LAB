@@ -12,9 +12,6 @@ This repository contains the Digital Forensics practical experiment reports and 
 ### Experiment 2
 [View Experiment 2 PDF](<df exp 2.pdf>)
 
-### Experiment 3
-[View Experiment 3 PDF](<99240040170 exp 3 .pdf>)
-
 ### Experiment 4
 [View Experiment 4 PDF](<df exp 4.pdf>)
 
